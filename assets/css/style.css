@@ -1,0 +1,122 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    width: 1280px;
+    margin: 0 auto;
+}
+header {
+    
+    height: 73px;
+    background-color: black;
+    overflow: hidden;
+
+}
+header h1 {
+    font-weight: normal;
+    font-size: 50;
+    text-align: center;
+    margin-top: 7px;
+}
+#iguana_fondo {
+    height: 727px;    
+}
+#descripcion_iguana {
+    height: 347px;
+    background-color: black;
+    overflow: hidden;   
+}
+#descripcion_iguana #parrafo_descripcion {
+    font-size: 16px;
+    font-weight: 300;
+    width: 475px;
+    height: 197px;
+    margin-top: 76px;
+    margin-left: 150px;
+    margin-right: 106px;
+    float: left;
+    overflow: hidden;
+}
+#descripcion_iguana div {
+    width: 399px;
+    height: 237px;
+    margin-top: 45px;
+    margin-left: 106;
+    float: left;
+    overflow: hidden;
+}
+#iguana_1 {
+    width: 399px;
+    height: 237px;
+}
+#iconos {
+    width: 1280px;
+    height: 348px;
+    background-color: #1E1A13;
+    opacity: 0.98;
+    text-align: center;   
+    overflow: hidden;
+}
+#iconos h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: 75px;
+}
+#iconos div {
+    width: 300px;
+    height: 100px;
+    float: left;
+    margin-top: 50px;
+    font-size: 25px;
+    font-weight: 300;
+}
+#iconos #ojo {
+    margin-left: 190px;
+}
+#iconos i {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+#fotografias {
+    width: 1280px;
+    height: 348px;
+    background-color: black;
+    overflow: hidden;
+    }
+#fotografias #division_1 {
+    margin-left: 150px;
+}
+#fotografias div {
+    width: 316px;
+    height: 202px;
+    float: left;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 73px;
+    overflow: hidden;
+}
+.foto {
+    width: 316px;
+    height: 202px;    
+    }
+#pie {
+    width: 1280px;
+    height: 102px;
+    background-color: #1E1A13;
+    opacity: 0.94;
+    text-align: center;
+    line-height: 102px;
+    overflow: hidden;
+}
+a { 
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    color: #FFFFFF;
+}
